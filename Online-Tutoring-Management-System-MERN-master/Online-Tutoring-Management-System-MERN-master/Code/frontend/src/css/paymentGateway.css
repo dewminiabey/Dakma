@@ -1,0 +1,65 @@
+.payment {
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 30px;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10x;
+  text-align: center;
+}
+
+.topic {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pay-btn {
+  margin-top: 40px;
+  padding: 10px;
+  border-radius: 5px;
+  border-style: none;
+  background-color: #008f0c;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.pay-btn :hover {
+  background-color: green;
+}
+
+td {
+  text-align: left;
+  padding-top: 10px;
+  color: rgb(0, 0, 92);
+  font-size: 18px;
+}
+
+.input-box {
+  padding: 10px;
+  border-bottom: 5px;
+  border-color: #f1f1f1;
+  border-width: 1px;
+  width: 85%;
+  font-size: 15px;
+}
+
+.pay-table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.card-type {
+  margin-left: 30px;
+}
+
+.images {
+  margin-left: auto;
+  margin-right: auto;
+}

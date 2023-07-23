@@ -1,0 +1,72 @@
+.studentLogin{
+    margin-top: 3%;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-input{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.studentLoginForm{
+    text-align: left;
+}
+
+.studentLoginBtn{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: large;
+}
+
+.card-group-2{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+
+.card-img-1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.login-as{
+    margin-top: 3%;
+    text-align: center; 
+}
+
+.login-problem{
+    text-align:left;
+    margin-top: 50px;
+    font-size: 15px;
+}
+
+
+@media screen and (max-width: 420px) {
+    .login-input{
+        width: 300px ;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .login-input{
+        width: 200px ;
+    }
+}
+
+@media screen and (max-width: 220px) {
+    .login-input{
+        width: 100px ;
+    }
+} 
+
+
+

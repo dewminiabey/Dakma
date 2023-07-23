@@ -1,0 +1,15 @@
+.card-group1{
+    padding: 5%;
+}
+
+.card-1{
+    width: 50%;
+    margin: 1%; 
+    padding: 1%;
+    border-style: none;
+}
+
+.card-1 :hover{
+    padding: 5%;
+    transition-duration: 0.5s;
+}

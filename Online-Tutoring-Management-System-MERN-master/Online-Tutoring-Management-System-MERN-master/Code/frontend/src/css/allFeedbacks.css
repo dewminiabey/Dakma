@@ -1,0 +1,17 @@
+.all-feedbacks{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.feedback-table{
+
+}
+
+.feedback-view{
+    border-style: hidden;
+}
+
+
+.feedback{
+    background-color: rgb(255, 242, 222);
+}
